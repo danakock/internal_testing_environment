@@ -1,0 +1,6 @@
+flask==2.2.3
+mixpanel==4.10.0
+psycopg2-binary
+flask-sqlalchemy==3.0.3
+Flask-Migrate==4.0.4
+Werkzeug~=2.2.3
